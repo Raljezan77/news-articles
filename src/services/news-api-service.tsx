@@ -24,7 +24,15 @@ export function get_articals(page: number, pageSize: number): Artical[] {
             publishedAt: "2022-1-3 12:20PM",
             url: "expmaple.com",
             urlToImg: "image.com",
-        }
+        },
+        {
+            title: "test2",
+            author: "Raedaljezani",
+            publishedAt: "2022-9-22 10:20PM",
+            url: "expmaple.com",
+            urlToImg: "image.com",
+        },
+     
     ]
 }
 
