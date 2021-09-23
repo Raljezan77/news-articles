@@ -41,3 +41,4 @@ export async function get_articals(page: number, pageSize: number): Promise<Arti
 export function search_for_articals(text: string): Artical[] {
     return []
 }
+
